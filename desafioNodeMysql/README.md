@@ -1,20 +1,24 @@
-### Desafio Node + MySQL
+### Desafio Node.js + MySQL
 
-A ideia deste desafio é que ao rodar o comando `docker compose up` a aplicação `node` deve funcionar por completa.
+O objetivo desse desafio é que ao rodar o comando `docker compose up` a aplicação `node` deve funcionar por completa. Investigue os arquivos do projeto, os arquivos de configuração e faça o fix necessário.
 
-Erros relacionado ao `node`.
+### Restrições
+- A versão do `Node.js` deve ser mantida
+- As libs já presentes devem permanecer as mesmas
+- Você poderá trocar as versões das libs já presentes
 
 ---
 
-#### Correção do desafio:
+### Correção do desafio:
+Para verificar se está tudo funcionando, você deverá rodar o projeto segundo os passos abaixo:
 
-Rodar o comando:
+Rode o comando:
 
 ```bash
 docker compose up
 ```
 
-Acessar a rota abaixo e uma lista de nomes deve ser impressa na tela:
+Acesse a rota abaixo e uma lista de nomes deve ser impressa na tela:
 
 ```
 localhost:8080
