@@ -13,7 +13,7 @@ Analise os dois arquivos, verifique o que está impedindo a execução dos conta
 
 ### Correção do desafio:
 
-Para verificar se está tudo funcionando, deverá rodar o projeto via docker-compose e posteriomente acessar o seu ambiente local:
+Para verificar se está tudo funcionando, você deverá rodar o projeto via docker-compose e posteriomente acessar o seu ambiente local:
 
 Rode o comando:
 
