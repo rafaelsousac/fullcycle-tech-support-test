@@ -1,33 +1,38 @@
-### Desafio Golang
 
-A ideia deste desafio é que ao executar os testes, todos devem passar com êxito.
+## Desafio Golang
 
-A versão do `Golang` deve ser mantida a `1.16`.
+O objetivo deste desafio é que ao executar os testes já criados, todos devem passar com êxito. Analise os arquivos do projeto, os arquivos de configuração e faça o fix necessário.
 
-Para isso você deve rodar o projeto com os seguintes passos:
+### Restrições
+- A versão do `Golang` deve ser mantida a `1.16`.
+- As libs já presentes devem permanecer as mesmas
+- Você poderá trocar as versões das libs já presentes
 
-Rodar o container do Golang:
+### Correção do desafio:
+Para verificar se está tudo funcionando, você deverá rodar o projeto segundo os passos abaixo:
+
+Rode o container do projeto:
 
 ```bash
 docker compose up
 ```
 
-Entrar no container:
+Entre no container:
 
 ```bash
 docker compose exec app bash
 ```
 
-Instalar as dependências:
+Instale as dependências:
 
 ```bash
 go mod tidy
 ```
 
-Rodar os testes:
+Rode os testes:
 
 ```bash
 go test ./....
 ```
 
-Erros ocorrerão e o desafio é resolve-los.
+O output esperado é a execução de todos os testes sem nenhum tipo de erro.
