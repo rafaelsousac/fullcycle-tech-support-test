@@ -5,6 +5,7 @@
 - Você até 7 dias para fazer o desafio
 - Ao final do desafio envie o link do repositório para o e-mail: miriane@fullcycle.com.br / leonan@fullcycle.com.br
 - Não é necessário solucionar todos as dúvidas propostas, porém a cada dúvida solucionada contará mais pontos para sua classificação
+- Para as perguntas conceituais, aconselhamos o uso da ferramenta [gist do Github](https://gist.github.com) para melhor organização das suas respostas. Crie para cada pergunta um arquivo gist e compartilhe conosco, via README.md ou e-mail.
 
 ### Em casa de dúvidas
 Em caso de dúvidas, não hesite em nos contactar. Caso algo não tenha ficado claro que impeça o seu avanço, por favor envie um e-mail para: miriane@fullcycle.com.br com a sua dúvida de forma clara e objetiva.
